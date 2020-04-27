@@ -11,10 +11,8 @@
 ###    2020-4-26   
 
 - [x] [不同路径II](https://github.com/guying100/Code63/tree/master/src/com/codeday)
-
 - [x] [北京理工大学上机题一](https://github.com/guying100/day2/blob/master/day2/Code352.cpp)
-
 - [x] [北京理工大学上机题二](https://github.com/guying100/day2/blob/master/day2/Code353.cpp)
 
-      ​
+------
 
