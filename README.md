@@ -18,4 +18,6 @@
 
 ###    2020-4-26   
 - [x] [北京理工大学上机题三](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code354.java)
+- [x] [杭州科技大学上机题一](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code354.java)
+- [x] [杭州科技大学上机题二](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code354.java)
 
