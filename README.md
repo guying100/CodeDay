@@ -17,5 +17,5 @@
 ------
 
 ###    2020-4-26   
-- [x] [北京理工大学上机题三](https://github.com/guying100/Code63/tree/master/src/com/codeday)
+- [x] [北京理工大学上机题三](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code354.java)
 
