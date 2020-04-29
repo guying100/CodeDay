@@ -24,4 +24,6 @@
 ------
 
 ###    2020-4-28   
-- [x] [3马走日](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code354.java)
+- [x] [3马走日](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code3.java)
+
+------
