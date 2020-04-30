@@ -23,7 +23,11 @@
 
 ------
 
-###    2020-4-28   
+###    2020-4-29   
 - [x] [3马走日](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code3.java)
 
 ------
+
+###    2020-4-29   
+- [x] [4链表交并差](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code3.java)
+- [x] [力扣重排链表](https://github.com/guying100/Code63/blob/master/src/com/codeday/Code3.java)
