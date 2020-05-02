@@ -34,9 +34,14 @@
 
 ------
 
-###    2020-4-30   
+###    2020-5-1   
 
 - [x] [5最大连续子数组](https://github.com/guying100/day2/blob/master/day6/Code5.cpp)
 
 ------
 
+###    2020-5-2 
+
+- [x] [6青蛙杯棒球比赛](https://github.com/guying100/day2/blob/master/day7/Code6.cpp)
+
+------
