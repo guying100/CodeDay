@@ -52,3 +52,8 @@
 - [x] [7扩展二叉树具有两个子女的结点个数](https://github.com/guying100/day2/blob/master/day8/Code7(1).cpp)
 - [x] [7树作业二叉树具有单个子女的结点个数](https://github.com/guying100/day2/blob/master/day8/Code7(2).cpp)
 
+------
+
+###    2020-5-3
+
+- [x] [8First Missing Positive](https://github.com/guying100/day2/blob/master/day9/Code8.cpp)
