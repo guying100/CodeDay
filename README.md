@@ -63,6 +63,6 @@
 
 ###    2020-5-5
 
-https://github.com/guying100/day2/blob/master/day10/Code10.cpp
+- [x] [8First Missing Positive](https://github.com/guying100/day2/blob/master/day10/Code10.cpp)
 
 ------
