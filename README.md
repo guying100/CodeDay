@@ -69,6 +69,6 @@
 
 ###    2020-5-6
 
-- [x] [9树的层次遍历](https://github.com/guying100/day2/tree/master/day11)
+- [x] [10二叉排序树](https://github.com/guying100/day2/tree/master/day11)
 
 ------
