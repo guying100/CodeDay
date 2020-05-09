@@ -90,3 +90,7 @@
 
 ###    2020-5-9
 
+- [x] [13华科834](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+- [x] [69likou x的平方根](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+
+------
