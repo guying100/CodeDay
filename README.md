@@ -94,3 +94,17 @@
 - [x] [69likou x的平方根](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
 
 ------
+
+###    2020-5-10
+
+- [x] [14树的路径](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+- [x] [236likou 最近公共祖先](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+
+------
+
+###    2020-5-11
+
+- [x] [15买卖青蛙(续)](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+- [x] [50likou 实现幂函数](https://github.com/guying100/day2/blob/master/day14/Code13.cpp)
+
+------
