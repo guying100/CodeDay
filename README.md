@@ -109,9 +109,26 @@
 
 ------
 
-###    2020-5-11
+###    2020-5-12
 
-- [x] [155最小栈](https://github.com/guying100/day2/tree/master/day17)
+- [x] [155likou最小栈](https://github.com/guying100/day2/tree/master/day17)
 
 ------
 
+###    2020-5-13
+
+- [x] [102likou二叉树的层次遍历](https://github.com/guying100/day2/tree/master/day18)
+
+------
+
+###    2020-5-14
+
+- [x] [136likou只出现一次的数字](https://github.com/guying100/day2/tree/master/day19)
+
+------
+
+###    2020-5-15
+
+- [x] [560likou和为k的子数组](https://github.com/guying100/day2/tree/master/day20)
+
+------
