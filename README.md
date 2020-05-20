@@ -153,12 +153,12 @@
 
 ###    2020-5-19
 
-- [x] [680likou验证回文字符串II](https://github.com/guying100/day2/tree/master/day23)
-
+- [x] [2likou两数相加](https://github.com/guying100/day2/blob/master/day24/likou2(True).cpp)
+- [x] [2likou两数相加——超过int类型的数据不行](https://github.com/guying100/day2/blob/master/day24/likou2.cpp)
 ------
 
 ###    2020-5-20
 
-- [x] [680likou验证回文字符串II](https://github.com/guying100/day2/tree/master/day23)
-
+- [x] [680likou每个元音包含偶数次的最长子字符串 ](https://github.com/guying100/day2/blob/master/day25/likou1371(True).cpp)
+- [x] [680likou每个元音包含偶数次的最长子字符串——会超时 ](https://github.com/guying100/day2/blob/master/day25/likou1371.cpp)
 ------
