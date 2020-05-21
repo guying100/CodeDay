@@ -162,3 +162,8 @@
 - [x] [680likou每个元音包含偶数次的最长子字符串 ](https://github.com/guying100/day2/blob/master/day25/likou1371(True).cpp)
 - [x] [680likou每个元音包含偶数次的最长子字符串——会超时 ](https://github.com/guying100/day2/blob/master/day25/likou1371.cpp)
 ------
+
+###    2020-5-21
+
+- [x] [5likou最长回文子串 ](https://github.com/guying100/day2/blob/master/day26/Code5.cpp)
+------
