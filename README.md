@@ -167,3 +167,13 @@
 
 - [x] [5likou最长回文子串 ](https://github.com/guying100/day2/blob/master/day26/Code5.cpp)
 ------
+
+###    2020-5-22
+
+- [x] [105likou 从前序与中序遍历序列构造二叉树](https://github.com/guying100/day2/blob/master/day26/Code5.cpp)
+------
+
+###    2020-5-23
+
+- [x] [76likou最小覆盖子串 ](https://github.com/guying100/day2/blob/master/day26/Code5.cpp)
+------
